@@ -1,0 +1,9 @@
+Data inicial: 26/09/24
+
+Neste curso, como exemplo e aprendizado vamos criar o projeto Meteora, conforme curso Alura.
+
+Figma projeto Meteora: https://www.figma.com/community/file/1416522959494233031/bootstrap-5-meteora
+
+Lembretes:
+> alt+shift+f = organiza o código no VSCode
+> para selecionar comandos iguais: ctrl+D
