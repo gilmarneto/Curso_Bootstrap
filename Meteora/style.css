@@ -5,3 +5,14 @@
 .divs-facilidades {
     width: 325px;
 }
+
+.botao-lilas {
+    background-color: #9353FF;
+    padding: 10px;
+    color:#fff;
+    text-decoration: none;
+ }
+
+.verde-limao {
+    color: #DAFF01;
+}
